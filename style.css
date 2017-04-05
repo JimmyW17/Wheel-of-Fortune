@@ -6,14 +6,13 @@ body {
   visibility: hidden;
   margin: 0 auto;
   width: fit-content;
-  margin-bottom: 10px;
+  /*margin-bottom: 10px;*/
 }
 
 #board {
   text-align: center;
   border: 2px solid black;
   padding: 5px;
-  font-size: 50px;
 }
 
 #word_bank_div {
